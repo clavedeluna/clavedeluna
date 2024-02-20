@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I'm Dani, a professional programmer.
 
-- 🔭 I’m currently working on maintaining various popular Python projects including Pylint.
+- 🔭 I’m currently working on maintaining various popular Python projects including Pylint and [codemodder](https://github.com/pixee/codemodder-python).
 - 😄 My favorite stuff is taking old issues and fixing them. Nothing like the endorphin hit from getting that issue list shorter and shorter! I focus on maintenance work, refactors, linting, and testing. This is my way of making the world a better place, one line of tested code at a time.
